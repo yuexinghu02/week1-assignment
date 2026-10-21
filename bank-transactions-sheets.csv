@@ -1,0 +1,12 @@
+transaction_id,date,account_holder,description,amount,balance
+TX-1001,--Jan072026,Jose Martinez,Payroll deposit,18500,42310.75
+TX-1002,--Feb052026,Maria Gonzalez,ATM withdrawal,-2000,40310.75
+TX-1003,--Mar112026,Ramon Diaz,Electricity bill,-845.3,39465.45
+TX-1004,--Apr032026,Lucia Hernandez,Transfer received,5250,44715.45
+TX-1005,--May042026,Andres Lopez,Grocery store,-1312.6,43402.85
+TX-1006,--Jun022026,Sofia Ramirez,Mobile phone plan,-399,43003.85
+TX-1007,--Jul092026,Miguel Torres,Rent payment,-9500,33503.85
+TX-1008,--Aug012026,Carmen Ruiz,Payroll deposit,18500,52003.85
+TX-1009,--Sep062026,Fernando Castillo,Restaurant,-1180,50823.85
+TX-1010,--Oct122026,Isabel Morales,Insurance premium,-2450,48373.85
+TX-1011,--Nov142026,Isabel Morales,Insurance premium,-2450,45923.85
